@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Karl Ho",
+    "section": "",
+    "text": "Karl Ho website.\nAbout me:\n\npolitical scientist\ndata scientist\ninstructor\n\n\n1 + 1\n\n[1] 2\n\nplot(iris)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Karl Ho\nI am a political scientist/data scientist at the University of Texas at Dallas."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests including language models in political studies, election models with a regional focus on East Asia."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach:\n\nSDAR\nComparative Policy Studies\nPPPE"
+  }
+]

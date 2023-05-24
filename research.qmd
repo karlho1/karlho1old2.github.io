@@ -1,0 +1,5 @@
+---
+title: "Research"
+---
+
+My research interests including language models in political studies, election models with a regional focus on East Asia.
